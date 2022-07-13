@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Base Project</string>
+    <string name="application_name">Application Name</string>
+    <string name="get_max_duration">Get Max Duration</string>
+</resources>
